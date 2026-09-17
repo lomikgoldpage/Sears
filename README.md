@@ -207,3 +207,6 @@ Sears is a full free version that includes all features and updates, ensuring yo
 - 📧 **[Support](mailto:support@www.softyne.com)**
 - 📖 **[Documentation](https://www.softyne.com/privacy-policy-2/)**
 - 💬 **[Community](https://www.softyne.com/about-us/)**
+
+---
+**Last updated:** 2026-09-17 05:53:14 UTC
